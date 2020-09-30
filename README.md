@@ -8,7 +8,14 @@ Me tornei um desenvolvedor de software em 1989 quando aprendi a linguagem de pro
 
 Entrando na era PC eu comecei a desenvolver programas em Clipper com banco de dados dBase, onde permaneci por 05 anos fazendo trabalhos freelance. Na sequência, programando no ambiente Windows, fiquei 10 anos escrevendo código em Pascal e desenvolvendo aplicativos cliente-servidor em Delphi com banco de dados Interbase e Microsoft SQL Server. Em 1998 com a chegada da internet em Jaraguá do Sul, eu comecei a desenvolver software para a web usando a linguagem VBScript e ASP Clássico com banco de dados Microsoft SQL Server. Por último, desde 2005, eu estou desenvolvendo software usando a linguagem de programação C# (Microsoft.NET).
 
-#### ⚡ Qualificação técnica principal: +10 anos de experiência como desenvolvedor web em C# / ASP.NET Core MVC / SQL Server / HTML5 / CSS3 / JavaScript / Visual Studio.
+### ⚡ Qualificação técnica principal:
+- +10 anos de experiência como desenvolvedor web
+- C#
+- ASP.NET Core MVC 
+- SQL Server 
+- HTML5 & CSS3 
+- JavaScript
+- Visual Studio
 
 ### 🚀 [`www.silvanoschroder.com.br`](https://www.silvanoschroder.com.br/)
 
