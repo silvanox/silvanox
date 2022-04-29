@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Silvano Schröder.
 
-Sou um desenvolvedor de software de Guaramirim. Desde 1992 estou trabalhando com tecnologia em Jaraguá do Sul e região norte de Santa Catarina. Em 2001 eu e meu pai - um corretor de imóveis desde 1986 - criamos o primeiro portal imobiliário de Jaraguá do Sul na internet, integrando a carteira de imóveis de oito imobiliárias da região.
+Sou um desenvolvedor de software de Guaramirim. Desde 1992 estou trabalhando com tecnologia em Jaraguá do Sul e região norte de Santa Catarina. Em 2001 eu e meu pai - corretor de imóveis desde 1986 - criamos o primeiro portal imobiliário de Jaraguá do Sul na internet, integrando a carteira de imóveis de oito imobiliárias da região.
 
 No momento estou construindo meu próprio negócio, uma empresa de software e serviços de internet para o mercado imobiliário.
 
