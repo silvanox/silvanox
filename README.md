@@ -15,7 +15,7 @@ Me tornei um programador de computador em 1989 quando aprendi a linguagem BASIC,
 - JavaScript
 - Visual Studio
 
-### 🚀 [`www.silvanoschroder.com.br`](https://www.silvanoschroder.com.br/)
+### 🚀 [`silvano.blog.br`](https://silvano.blog.br/)
 
 <!--
 **silvanox/silvanox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
