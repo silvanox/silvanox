@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Silvano Schröder.
 
-Desenvolvedor de software com mais de 30 anos de experiência, com foco em pequenas e médias empresas do mercado imobiliário.
+Desenvolvedor de software desde 1992, criando soluções para internet e mercado imobiliário desde 2001.
 
 Atuei em Jaraguá do Sul e região de 1992 a 2021. Em 2001, fui idealizador, desenvolvedor e cofundador do primeiro portal imobiliário da cidade, que integrou a carteira de imóveis de oito imobiliárias, construtoras e incorporadoras — uma parceria que durou até 2013. Após isso, segui desenvolvendo software para o mercado imobiliário até 2021.
 
@@ -8,16 +8,11 @@ Minha trajetória na programação começou em 1989, acompanhando a evolução t
 
 ### ⚡ Qualificação técnica principal:
 - +15 anos de experiência como desenvolvedor web
-- C#
-- .NET 6/8
-- ASP.NET Core MVC
-- Web API
-- SQL Server 
-- HTML5 & CSS3 
-- JavaScript
+- C#, .NET 6/8, ASP.NET Core, Web API, SQL Server 
+- HTML5 & CSS3, JavaScript
 - Visual Studio
 
-### 🚀 [`www.silvano.com.br`](https://www.silvano.com.br/)
+### 🚀 [`silvano.com.br`](https://silvano.com.br/)
 
 <!--
 **silvanox/silvanox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
