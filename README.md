@@ -1,21 +1,23 @@
 ### 👋 Olá, meu nome é Silvano Schröder.
 
-Sou um desenvolvedor de software de Guaramirim. Desde 1992 estou trabalhando com tecnologia em Jaraguá do Sul e região norte de Santa Catarina. Em 2001 eu e meu pai - corretor de imóveis desde 1986 - criamos o primeiro portal imobiliário de Jaraguá do Sul na internet, integrando a carteira de imóveis de oito imobiliárias da região.
+Desenvolvedor de software com mais de 30 anos de experiência, com foco em pequenas e médias empresas do mercado imobiliário.
 
-No momento estou construindo meu próprio negócio, uma empresa de software e serviços de internet para o mercado imobiliário.
+Atuei em Jaraguá do Sul e região de 1992 a 2021. Em 2001, fui idealizador, desenvolvedor e cofundador do primeiro portal imobiliário da cidade, que integrou a carteira de imóveis de oito imobiliárias, construtoras e incorporadoras — uma parceria que durou até 2013. Após isso, segui desenvolvendo software para o mercado imobiliário até 2021.
 
-Me tornei um programador de computador em 1989 quando aprendi a linguagem BASIC, usando computadores MSX Expert da Gradiente e TK3000 IIe da Microdigital, também conhecido como Apple II. Nos anos 90 entrando na era PC eu comecei a desenvolver programas em Clipper com banco de dados dBase, onde permaneci por 05 anos fazendo trabalhos freelance. Na sequência, programando no ambiente Windows, fiquei 10 anos escrevendo código em Pascal e desenvolvendo aplicativos cliente-servidor em Delphi com banco de dados Interbase e Microsoft SQL Server. Em 1998 com a chegada da internet em Jaraguá do Sul, eu comecei a desenvolver software para a web usando a linguagem VBScript e ASP Clássico com banco de dados Microsoft SQL Server. Finalizando meu histórico profissional, desde 2005 estou desenvolvendo software usando a linguagem de programação C# e a plataforma .NET.
+Minha trajetória na programação começou em 1989, acompanhando a evolução tecnológica. Iniciei com BASIC nos computadores MSX Expert e TK3000 IIe, segui para Clipper e dBase na era PC/DOS e, posteriormente, para Pascal e Delphi com SQL Server no ambiente Windows. A partir de 1998, passei a desenvolver aplicações web com ASP Clássico e VBScript. Em 2005, migrei para desenvolvimento web com C# e a plataforma .NET evoluindo até o .NET Core. Desde 2021, meu foco tem sido C#, .NET 6/8, ASP.NET Core, Web API e Microsoft SQL Server. Recentemente, em 2024/2025, comecei a aprender desenvolvimento mobile Android com as ferramentas da Google, Dart e Flutter.
 
 ### ⚡ Qualificação técnica principal:
-- +10 anos de experiência como desenvolvedor web
+- +15 anos de experiência como desenvolvedor web
 - C#
-- ASP.NET Core MVC 
+- .NET 6/8
+- ASP.NET Core MVC
+- Web API
 - SQL Server 
 - HTML5 & CSS3 
 - JavaScript
 - Visual Studio
 
-### 🚀 [`silvano.blog.br`](https://silvano.blog.br/)
+### 🚀 [`www.silvano.com.br`](https://www.silvano.com.br/)
 
 <!--
 **silvanox/silvanox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
